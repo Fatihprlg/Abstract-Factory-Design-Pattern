@@ -1,0 +1,13 @@
+C:\Users\Fatih\source\repos\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesignpattern.exe
+C:\Users\Fatih\source\repos\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesignpattern.deps.json
+C:\Users\Fatih\source\repos\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesignpattern.runtimeconfig.json
+C:\Users\Fatih\source\repos\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesignpattern.runtimeconfig.dev.json
+C:\Users\Fatih\source\repos\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesignpattern.dll
+C:\Users\Fatih\source\repos\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesignpattern.pdb
+C:\Users\Fatih\source\repos\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignpattern.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignpattern.AssemblyInfoInputs.cache
+C:\Users\Fatih\source\repos\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignpattern.AssemblyInfo.cs
+C:\Users\Fatih\source\repos\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignpattern.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignpattern.dll
+C:\Users\Fatih\source\repos\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignpattern.pdb
+C:\Users\Fatih\source\repos\AbstractFactoryDesignpattern\AbstractFactoryDesignpattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignpattern.genruntimeconfig.cache
